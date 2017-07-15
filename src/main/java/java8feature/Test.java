@@ -7,7 +7,7 @@ import java.util.function.Consumer;
 /**
  * Created by ramesh on 26/06/17.
  */
-public class Sample {
+public class Test {
     public static void main(String[] args) {
         List<Integer> values = Arrays.asList(1,2,3,4);
         List<String> strValues = Arrays.asList("a","b","c");
